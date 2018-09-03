@@ -56,4 +56,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'bootstrap', '~> 4.1.3'
 gem 'jquery-rails'
-gem 'view_tool_bren', '~> 0.1.0', git: 'https://github.com/tommyb67/view_tool_bren'
+gem 'view_tool_bren', git: 'https://github.com/tommyb67/view_tool_bren'
