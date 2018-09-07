@@ -82,7 +82,7 @@ body {
   border-bottom-color: #fff;
 }
 
-@media (min-width: 48em) {
+@media (min-width: 60em) {
   .masthead-brand {
     float: left;
   }
@@ -122,4 +122,15 @@ body {
 .auth-links a {
   color: black;
 }
+
+.login > .card {
+  width: 22em;
+  margin: 0 auto;
+  float: none;
+}
+
+
+
+
+
 
