@@ -1,6 +1,8 @@
-<h1>Hi, <%= current_user.first_name %></h1>
-<h1>Home Page</h1>
-<p>Find me in app/views/pages/home.html.erb</p>
-
-<%= @skills.inspect %>
+<main role="main" class="inner cover">
+  <h1 class="cover-heading">Creating a Human Experience</h1>
+  <p class="lead">Be useful</p>
+  <p class="lead">
+    <%= link_to "About Me", about_me_path, class: "btn btn-lg btn-secondary" %>
+  </p>
+</main>
 
